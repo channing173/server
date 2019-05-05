@@ -1,0 +1,49 @@
+[20:57:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:57:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:57:52] [Server thread/INFO]: Starting minecraft server version 1.14
+[20:57:52] [Server thread/INFO]: Loading properties
+[20:57:52] [Server thread/INFO]: Default game type: CREATIVE
+[20:57:52] [Server thread/INFO]: Generating keypair
+[20:57:52] [Server thread/INFO]: Starting Minecraft server on 192.168.1.27:25565
+[20:57:52] [Server thread/INFO]: Using epoll channel type
+[20:57:52] [Server thread/INFO]: Preparing level "world"
+[20:57:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:57:55] [Server thread/INFO]: Loaded 6 recipes
+[20:57:55] [Server thread/INFO]: Loaded 811 advancements
+[20:57:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:57:56] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:57:56] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[20:57:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:57:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:57:58] [Server-Worker-1/INFO]: Preparing spawn area: 17%
+[20:57:58] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:57:59] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[20:57:59] [Server thread/INFO]: Time elapsed: 3248 ms
+[20:57:59] [Server thread/INFO]: Done (6.759s)! For help, type "help"
+[20:57:59] [Server thread/INFO]: Starting GS4 status listener
+[20:57:59] [Query Listener #1/INFO]: Query running on 192.168.1.27:25565
+[20:58:01] [User Authenticator #1/INFO]: UUID of player Dank_memes_420_ is 5bfcbe49-a096-48e7-a1ed-bdc045156423
+[20:58:01] [Server thread/INFO]: Dank_memes_420_[/192.168.1.27:57926] logged in with entity id 271 at (-239.23131279950155, 68.0, -244.27388572696697)
+[20:58:01] [Server thread/INFO]: Dank_memes_420_ joined the game
+[20:58:12] [Server thread/INFO]: Made Dank_memes_420_ a server operator
+[20:58:25] [Server thread/INFO]: Dank_memes_420_ lost connection: Disconnected
+[20:58:25] [Server thread/INFO]: Dank_memes_420_ left the game
+[21:17:59] [Server thread/INFO]: Stopping the server
+[21:17:59] [Server thread/INFO]: Stopping server
+[21:17:59] [Server thread/INFO]: Saving players
+[21:17:59] [Server thread/INFO]: Saving worlds
+[21:17:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:17:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:17:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:18:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
