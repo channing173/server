@@ -83,3 +83,19 @@
 [10:04:34] [Server thread/INFO]: Dank_memes_420_ left the game
 [10:04:38] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
 [10:04:38] [Server thread/INFO]: LordMatth3w left the game
+[10:11:45] [Server thread/INFO]: Stopping the server
+[10:11:45] [Server thread/INFO]: Stopping server
+[10:11:45] [Server thread/INFO]: Saving players
+[10:11:45] [Server thread/INFO]: Saving worlds
+[10:11:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:11:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:11:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
