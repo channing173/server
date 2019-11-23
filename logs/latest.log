@@ -1,101 +1,43 @@
-[09:56:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:56:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:56:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:56:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:56:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:56:34] [Server thread/INFO]: Starting minecraft server version 1.14
-[09:56:34] [Server thread/INFO]: Loading properties
-[09:56:34] [Server thread/INFO]: Default game type: CREATIVE
-[09:56:34] [Server thread/INFO]: Generating keypair
-[09:56:35] [Server thread/INFO]: Starting Minecraft server on 192.168.1.34:25565
-[09:56:35] [Server thread/INFO]: Using epoll channel type
-[09:56:35] [Server thread/INFO]: Preparing level "world"
-[09:56:35] [Server thread/INFO]: Reloading ResourceManager: Default
-[09:57:02] [Server thread/INFO]: Loaded 6 recipes
-[09:57:03] [Server thread/INFO]: Loaded 811 advancements
-[09:57:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:57:04] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[09:57:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[09:57:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[09:57:05] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[09:57:06] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[09:57:06] [Server-Worker-3/INFO]: Preparing spawn area: 1%
-[09:57:07] [Server-Worker-3/INFO]: Preparing spawn area: 1%
-[09:57:12] [Server-Worker-1/INFO]: Preparing spawn area: 3%
-[09:57:12] [Server-Worker-3/INFO]: Preparing spawn area: 3%
-[09:57:12] [Server-Worker-3/INFO]: Preparing spawn area: 3%
-[09:57:12] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-3/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-3/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-2/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-3/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-1/INFO]: Preparing spawn area: 4%
-[09:57:12] [Server-Worker-1/INFO]: Preparing spawn area: 22%
-[09:57:13] [Server-Worker-1/INFO]: Preparing spawn area: 35%
-[09:57:13] [Server-Worker-2/INFO]: Preparing spawn area: 47%
-[09:57:14] [Server-Worker-1/INFO]: Preparing spawn area: 87%
-[09:57:14] [Server-Worker-1/INFO]: Preparing spawn area: 93%
-[09:57:15] [Server-Worker-3/INFO]: Preparing spawn area: 98%
-[09:57:15] [Server thread/INFO]: Time elapsed: 11100 ms
-[09:57:15] [Server thread/INFO]: Done (39.744s)! For help, type "help"
-[09:57:15] [Server thread/INFO]: Starting GS4 status listener
-[09:57:15] [Query Listener #1/INFO]: Query running on 192.168.1.34:25565
-[09:57:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[09:58:08] [User Authenticator #1/INFO]: UUID of player Dank_memes_420_ is 5bfcbe49-a096-48e7-a1ed-bdc045156423
-[09:58:08] [Server thread/INFO]: Dank_memes_420_[/68.98.243.105:50088] logged in with entity id 218 at (-419.2896821125002, 82.09253655117561, -364.9481247600319)
-[09:58:08] [Server thread/INFO]: Dank_memes_420_ joined the game
-[09:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[09:59:34] [User Authenticator #2/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
-[09:59:34] [Server thread/INFO]: LordMatth3w[/73.251.0.115:57607] logged in with entity id 3503 at (-209.5, 73.0, -250.5)
-[09:59:34] [Server thread/INFO]: LordMatth3w joined the game
-[09:59:50] [Server thread/INFO]: <LordMatth3w> nigga
-[09:59:56] [Server thread/INFO]: Made LordMatth3w a server operator
-[09:59:58] [Server thread/INFO]: <LordMatth3w> whats good miley
-[10:00:08] [Server thread/INFO]: <Dank_memes_420_> Yo who the fuck is you
-[10:00:18] [Server thread/INFO]: [LordMatth3w: Set own game mode to Survival Mode]
-[10:00:22] [Server thread/INFO]: <LordMatth3w> Your worst nightmare
-[10:00:30] [Server thread/INFO]: <Dank_memes_420_> You only set your game mode retard
-[10:00:48] [Server thread/INFO]: <LordMatth3w> how bout them apples
-[10:01:05] [Server thread/INFO]: [LordMatth3w: Set the weather to clear]
-[10:01:12] [Server thread/INFO]: <LordMatth3w> fucking rain dropping my frames
-[10:01:54] [Server thread/INFO]: <LordMatth3w> what is this place
-[10:02:02] [Server thread/INFO]: [Dank_memes_420_: Teleported Dank_memes_420_ to LordMatth3w]
-[10:02:22] [Server thread/INFO]: <Dank_memes_420_> Yo nbigch I'm here
-[10:02:22] [Server thread/INFO]: <LordMatth3w> its a village retard
-[10:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
-[10:02:34] [Server thread/INFO]: <LordMatth3w> who you call nigga bitch
-[10:02:44] [Server thread/INFO]: <Dank_memes_420_> Pretty sure I had a stroke on that second word
-[10:02:51] [Server thread/INFO]: <LordMatth3w> no me
-[10:03:03] [Server thread/INFO]: <LordMatth3w> live vicariously through minecraft
-[10:03:06] [Server thread/INFO]: Unknown command
-[10:03:06] [Server thread/INFO]: You're gay<--[HERE]
-[10:03:12] [Server thread/INFO]: <LordMatth3w> live like I wish I could
-[10:03:13] [Server thread/INFO]: LordMatth3w drowned
-[10:03:14] [Server thread/INFO]: [Server] you're gay
-[10:03:22] [Server thread/INFO]: <LordMatth3w> your*
-[10:03:37] [Server thread/INFO]: <LordMatth3w> switch to survival cheater hacker!!!1!!1!!1
-[10:03:43] [Server thread/INFO]: <LordMatth3w> laptop gonna die son
-[10:03:55] [Server thread/INFO]: <LordMatth3w> I'm gonna be back on in a couple hours
-[10:04:25] [Server thread/INFO]: <Dank_memes_420_> Sounds good I will be on at some point today
-[10:04:30] [Server thread/INFO]: <Dank_memes_420_> This is epic as fuck
-[10:04:34] [Server thread/INFO]: Dank_memes_420_ lost connection: Disconnected
-[10:04:34] [Server thread/INFO]: Dank_memes_420_ left the game
-[10:04:38] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
-[10:04:38] [Server thread/INFO]: LordMatth3w left the game
-[10:11:45] [Server thread/INFO]: Stopping the server
-[10:11:45] [Server thread/INFO]: Stopping server
-[10:11:45] [Server thread/INFO]: Saving players
-[10:11:45] [Server thread/INFO]: Saving worlds
-[10:11:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[10:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:11:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:11:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:11:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:06:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:06:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:06:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:06:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:06:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:06:13] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[20:06:13] [Server thread/INFO]: Loading properties
+[20:06:13] [Server thread/INFO]: Default game type: SURVIVAL
+[20:06:13] [Server thread/INFO]: Generating keypair
+[20:06:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:06:13] [Server thread/INFO]: Using epoll channel type
+[20:06:14] [Server thread/INFO]: Preparing level "world"
+[20:06:14] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:06:31] [Server thread/INFO]: Loaded 6 recipes
+[20:06:31] [Server thread/INFO]: Loaded 811 advancements
+[20:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:06:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:33] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:06:37] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[20:06:37] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[20:06:38] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[20:06:39] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[20:06:39] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[20:06:39] [Server thread/INFO]: Preparing spawn area: 85%
+[20:06:40] [Server-Worker-3/INFO]: Preparing spawn area: 87%
+[20:06:40] [Server-Worker-1/INFO]: Preparing spawn area: 89%
+[20:06:41] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[20:06:41] [Server-Worker-1/INFO]: Preparing spawn area: 94%
+[20:06:42] [Server-Worker-3/INFO]: Preparing spawn area: 96%
+[20:06:42] [Server thread/INFO]: Preparing spawn area: 97%
+[20:06:43] [Server thread/INFO]: Time elapsed: 11206 ms
+[20:06:43] [Server thread/INFO]: Done (28.937s)! For help, type "help"
+[20:06:58] [Server thread/INFO]: Made Dank_memes_420_ a server operator
+[20:07:04] [Server thread/INFO]: Made LordMatth3w a server operator
