@@ -1,8 +1,17 @@
-[11:51:59] [User Authenticator #3/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
-[11:52:00] [Server thread/INFO]: LordMatth3w[/76.78.241.197:53376] logged in with entity id 48191 at (-711.3000000119209, 53.0, 6920.699999988079)
-[11:52:00] [Server thread/INFO]: LordMatth3w joined the game
-[12:10:01] [Server thread/INFO]: LordMatth3w has made the advancement [A Terrible Fortress]
-[12:11:07] [Server thread/INFO]: LordMatth3w has made the advancement [Into Fire]
-[12:14:07] [Server thread/WARN]: LordMatth3w moved too quickly! -7.225122262714876,7.5,1.3294855032595478
-[12:22:20] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
-[12:22:20] [Server thread/INFO]: LordMatth3w left the game
+[12:49:37] [User Authenticator #4/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[12:49:37] [Server thread/INFO]: LordMatth3w[/76.78.241.197:52243] logged in with entity id 52531 at (-134.29892240361443, 80.0, 668.5203279039224)
+[12:49:37] [Server thread/INFO]: LordMatth3w joined the game
+[13:13:12] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[13:13:12] [Server thread/INFO]: LordMatth3w left the game
+[13:37:13] [Server thread/INFO]: Stopping server
+[13:37:13] [Server thread/INFO]: Saving players
+[13:37:13] [Server thread/INFO]: Saving worlds
+[13:37:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:37:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:37:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
