@@ -1,23 +1,8 @@
-[12:18:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:18:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:18:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:18:45] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[12:18:45] [Server thread/INFO]: Loading properties
-[12:18:45] [Server thread/INFO]: Default game type: SURVIVAL
-[12:18:45] [Server thread/INFO]: Generating keypair
-[12:18:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:18:46] [Server thread/INFO]: Using epoll channel type
-[12:18:46] [Server thread/INFO]: Preparing level "world"
-[12:18:46] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:19:02] [Server thread/INFO]: Loaded 6 recipes
-[12:19:03] [Server thread/INFO]: Loaded 811 advancements
-[12:19:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:19:04] [Server thread/INFO]: Preparing spawn area: 0%
-[12:19:04] [Server thread/INFO]: Preparing spawn area: 0%
-[12:19:04] [Server thread/INFO]: Preparing spawn area: 0%
-[12:19:04] [Server thread/INFO]: Preparing spawn area: 0%
-[12:19:05] [Server thread/INFO]: Preparing spawn area: 30%
-[12:19:05] [Server thread/INFO]: Time elapsed: 2397 ms
-[12:19:05] [Server thread/INFO]: Done (19.443s)! For help, type "help"
+[11:51:59] [User Authenticator #3/INFO]: UUID of player LordMatth3w is 78bf6751-44de-4df1-8083-b050f52ac213
+[11:52:00] [Server thread/INFO]: LordMatth3w[/76.78.241.197:53376] logged in with entity id 48191 at (-711.3000000119209, 53.0, 6920.699999988079)
+[11:52:00] [Server thread/INFO]: LordMatth3w joined the game
+[12:10:01] [Server thread/INFO]: LordMatth3w has made the advancement [A Terrible Fortress]
+[12:11:07] [Server thread/INFO]: LordMatth3w has made the advancement [Into Fire]
+[12:14:07] [Server thread/WARN]: LordMatth3w moved too quickly! -7.225122262714876,7.5,1.3294855032595478
+[12:22:20] [Server thread/INFO]: LordMatth3w lost connection: Disconnected
+[12:22:20] [Server thread/INFO]: LordMatth3w left the game
