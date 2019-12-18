@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2019-12-13 17:09:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2019-12-13 16:42:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2019-12-13 17:09:52 -0500"
     },
     "done": true
   },
@@ -362,9 +362,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-12-15 18:37:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2019-12-12 13:57:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2019-12-16 18:56:31 -0500"
     },
     "done": true
   },
@@ -438,6 +450,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-12-12 14:25:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-12-16 18:37:57 -0500"
     },
     "done": true
   },
@@ -561,15 +579,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2019-12-13 16:34:53 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-12-13 16:29:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-12-13 16:34:53 -0500"
     },
     "done": true
   },
@@ -714,12 +732,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-12-13 17:09:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-12-13 16:24:05 -0500"
@@ -732,15 +744,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
-      "has_glass_pane": "2019-12-13 17:09:58 -0500"
+      "has_glass": "2019-12-13 17:09:52 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-13 17:09:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2019-12-13 17:09:58 -0500"
     },
     "done": true
   },
@@ -858,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-12-16 18:36:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-12-12 14:35:18 -0500"
@@ -876,15 +900,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2019-12-13 16:39:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-12-13 16:26:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-12-13 16:39:52 -0500"
     },
     "done": true
   },
@@ -937,6 +961,7 @@
       "minecraft:magma_cube": "2019-12-12 15:13:05 -0500",
       "minecraft:spider": "2019-12-12 14:23:42 -0500",
       "minecraft:creeper": "2019-12-12 14:01:39 -0500",
+      "minecraft:witch": "2019-12-15 19:00:29 -0500",
       "minecraft:wither_skeleton": "2019-12-12 14:41:32 -0500",
       "minecraft:husk": "2019-12-12 14:24:32 -0500",
       "minecraft:cave_spider": "2019-12-13 16:27:59 -0500",
@@ -1105,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-12-16 18:37:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2019-12-12 13:47:07 -0500"
@@ -1117,15 +1148,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-12-13 17:09:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-12-13 16:24:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-12-13 17:09:52 -0500"
     },
     "done": true
   },
@@ -1204,6 +1235,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-12-12 13:47:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-12-16 18:36:25 -0500"
     },
     "done": true
   },
@@ -1303,15 +1340,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2019-12-13 17:09:52 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2019-12-13 16:40:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2019-12-13 17:09:52 -0500"
     },
     "done": true
   },
@@ -1360,6 +1397,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-13 17:09:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2019-12-16 18:44:59 -0500"
     },
     "done": true
   },
@@ -1486,6 +1529,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-12-13 16:24:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-12-16 18:36:25 -0500"
     },
     "done": true
   },
@@ -1693,6 +1742,7 @@
       "minecraft:beach": "2019-12-12 13:49:58 -0500",
       "minecraft:river": "2019-12-12 13:47:50 -0500",
       "minecraft:lukewarm_ocean": "2019-12-12 13:50:15 -0500",
+      "minecraft:birch_forest_hills": "2019-12-15 18:48:21 -0500",
       "minecraft:stone_shore": "2019-12-12 13:51:00 -0500",
       "minecraft:savanna": "2019-12-12 13:55:46 -0500",
       "minecraft:plains": "2019-12-12 13:48:26 -0500"
@@ -1885,15 +1935,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2019-12-13 16:34:21 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-12-13 16:24:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2019-12-13 16:34:21 -0500"
     },
     "done": true
   },
@@ -1906,6 +1956,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-12-13 16:39:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-12-16 18:37:57 -0500"
     },
     "done": true
   },
